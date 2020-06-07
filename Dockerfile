@@ -1,6 +1,6 @@
 FROM devopsedu/webapp
 
-LABEL maintainer="martinbrightin1@gmail.com"
+LABEL maintainer="priyamohapatra43@gmail.com"
 
 ADD website /var/www/html
 
